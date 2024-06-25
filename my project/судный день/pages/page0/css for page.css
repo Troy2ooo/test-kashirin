@@ -1,0 +1,14 @@
+q {
+	font-size: 20px;
+color: green;
+}
+
+h1,
+h2 {
+color: #F0E68C;
+font-weight: bold;
+}
+.important-text {
+	color: #FF4500;
+	font-weight: 700;
+}
